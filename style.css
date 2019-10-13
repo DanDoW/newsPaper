@@ -1,0 +1,21 @@
+#top article{
+  text-align: center;
+}
+
+.quarter-width {
+  width: 25%;
+}
+
+#title{
+  width: 50%;
+  text-align: center;
+  float: left;
+}
+
+.float-left{
+  float: left;
+}
+
+.float-right{
+  float: right;
+}
